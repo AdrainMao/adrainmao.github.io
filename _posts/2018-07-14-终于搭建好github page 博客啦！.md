@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: 终于搭建好github page 博客啦
 date: 2018-7-14 20:45:00
 categories:
 - journal
