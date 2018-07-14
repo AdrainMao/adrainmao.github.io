@@ -1,5 +1,5 @@
 ---
-title: 终于搭建好github page博客啦！
+title: Milestone|终于搭建好github page博客啦！
 date: 2018-7-14 20:45:00
 categories:
 - journal
@@ -12,6 +12,7 @@ tags:["mind node"]
 
 #Project
 参考了github page的官方教程，和找到CSDN上的[中文教程](https://blog.csdn.net/u012168038/article/details/77715439)。我搭建起了自己的github.io博客啦！
+<!--more -->
 - 引用图片的解决方案，是新建了一个专门用于存放图片的仓库。仓库的上限是1GB，应该可以够用一段时间了。
 - 仓库地址：https://github.com/AdrainMao/AdrainImg
 
@@ -20,4 +21,4 @@ tags:["mind node"]
 >![me](https://github.com/AdrainMao/AdrainImg/raw/master/IMG_4807.JPG)
 >要注意将原地址`https://github.com/AdrainMao/AdrainImg/ **blob** /master/IMG_4807.JPG`中的 `blob` 改成 `raw`
 
-:smile
+: smile
