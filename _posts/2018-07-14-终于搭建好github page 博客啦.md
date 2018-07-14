@@ -18,6 +18,7 @@ tags:["mind node"]
 >这是引用一个仓库里的图片的例子
 >日本毕业旅行照片
 >![me](https://github.com/AdrainMao/AdrainImg/raw/master/IMG_4807.JPG)
->要注意将原地址`https://github.com/AdrainMao/AdrainImg/ **blob** /master/IMG_4807.JPG`中的 `blob` 改成 `raw`
 
-: smile
+要注意将原地址`https://github.com/AdrainMao/AdrainImg/ **blob** /master/IMG_4807.JPG`中的 `blob` 改成 `raw`
+
+>附上语法mark down地址https://segmentfault.com/a/1190000004543870 :smile:
