@@ -1,5 +1,5 @@
 ---
-title: 终于搭建好github page 博客啦
+title: 终于搭建好github page博客啦！
 date: 2018-7-14 20:45:00
 categories:
 - journal
@@ -18,4 +18,6 @@ tags:["mind node"]
 >这是引用一个仓库里的图片的例子
 >日本毕业旅行照片
 >![me](https://github.com/AdrainMao/AdrainImg/raw/master/IMG_4807.JPG)
->要注意将原地址中的https://github.com/AdrainMao/AdrainImg/ **blob** /master/IMG_4807.JPG `blob` 改成 `raw`
+>要注意将原地址`https://github.com/AdrainMao/AdrainImg/ **blob** /master/IMG_4807.JPG`中的 `blob` 改成 `raw`
+
+:smile
