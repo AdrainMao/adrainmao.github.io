@@ -2,8 +2,8 @@
 title: Milestone|终于搭建好博客啦
 date: 2018-7-14 20:45:00
 categories:
-tags:["mind node"]
-
+tags:
+- mind node
 ---
 
 #less
