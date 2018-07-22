@@ -2,6 +2,21 @@
 <search>
   
     <entry>
+      <title><![CDATA[Noa]]></title>
+      <url>/journal/2018/07/22/%E8%AF%BA%E4%BA%9A%E5%90%9B/</url>
+      <content type="text"><![CDATA[#再次练习绘画咯看了一堆解决方案，似乎没有什么完美的办法。居然官方都不推出移动app，似乎也就没什么办法了. 而且管理起来也比较麻烦，每次要上传到adrainmao img仓库才能引用。今天画了一张雷顿女士里的诺亚君的动画截图,还是使用了实时上色工具的方法，绘制这种纯色的不错。]]></content>
+      <categories>
+        
+          <category> Journal </category>
+        
+      </categories>
+      <tags>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
       <title><![CDATA[周报变成6点前要提交了]]></title>
       <url>/journal/2018/07/20/%E5%91%A8%E6%8A%A5%E5%8F%98%E6%88%906%E7%82%B9%E8%A6%81%E6%8F%90%E4%BA%A4%E4%BA%86/</url>
       <content type="text"><![CDATA[#周报  每周写周报都要花费大量的精力，希望能够整理出比较好的一个方式来写周报。  感觉每天都会跟小浩吵架，是不是到了传说中磨合期最容易分手的阶段了？心塞#blog  我到现在都还没有找到为什么blog同步失败的原因，他就只告诉我page build fail。一大堆的失败原因我也不想看。而且本地安装jekll一直失败  Installing gemoji 3.0.0Gem::FilePermissionError: You don't have write permissions for the/var/folders/_t/c33ydd9d2s5b1cf9ltcks68r0000gn/T/bundler20180717-43284-vx0xizgemoji-3.0.0/bindirectory.An error occurred while installing gemoji (3.0.0), and Bundlercannot continue.Make sure that gem install gemoji -v ‘3.0.0’ –source ‘https://rubygems.org/’succeeds before bundling.]]></content>
