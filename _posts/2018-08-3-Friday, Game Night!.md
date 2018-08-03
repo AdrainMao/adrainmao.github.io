@@ -11,4 +11,4 @@ tags:
 洛奇偶尔玩玩还不错，小宇也上线了。
 
 附上今日的吃鸡图！
-![chicken]()
+![chicken1](https://drive.google.com/file/d/1DhDXTqcGXpZAsOKnXyqzos5tYSa-1-RU/view?usp=sharing)

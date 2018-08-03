@@ -16,6 +16,6 @@ tags:
 六号楼的食堂也更新开张啦！ 有各种高科技也。可以刷脸打饭，或者提前预约特别堂食。还有意面呢。
 
 明日再更新照片吧，github客户端上传怎么突然这么慢啊！ 感觉需要一个在线图片库。
-![me]()
-![desk]()
-![cake]()
+![me](https://github.com/AdrainMao/AdrainImg/raw/master/me.PNG)
+![desk](https://github.com/AdrainMao/AdrainImg/raw/master/desk.JPG)
+![cake](https://github.com/AdrainMao/AdrainImg/raw/master/cake.JPG)
